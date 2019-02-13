@@ -1,1 +1,1 @@
-# word-guess-game
+# WordGuessGame
